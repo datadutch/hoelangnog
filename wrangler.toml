@@ -1,4 +1,4 @@
-name = "KBK"
+name = "kbk"
 main = "Lionel.py"  # Replace with your Python file name
 compatibility_date = "2023-12-01"
 compatibility_flags = ["python_workers"]
